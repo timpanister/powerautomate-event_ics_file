@@ -20,7 +20,7 @@ My solution seems simple enough: attach an ics file of the event. If the recipie
 
 ## Technical solution
 
-Here, I came up with the Power Automate Flow to create an ICS file  given user input on meeting details. The ics file is stored in the user's specified OneDrive folder and can be imported into Outlook or Google calendar. 
+Here, I came up with the Power Automate Flow to create an ICS file given user input on meeting details. The ics file is stored in the user's specified OneDrive folder. When composing an email, the ics is attached with it. Recipients can import the .ics file to add the calendar entry into Outlook or Google calendar. 
 
 ![image](https://user-images.githubusercontent.com/82358116/153165431-c4fc0395-0f40-40d4-8055-511cc1a7a8d2.png)
 
