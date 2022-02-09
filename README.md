@@ -9,7 +9,7 @@ And you check the email again to make sure no errors made.
 
 Sometimes, you can't even be bothered to add a calendar entry as you are bogged down by other tasks on hand so you make a mental note about the event and remind yourself to read that email again closer to date. That is, if you remember. Moreover, the sender has a habit of sending email reminders about the event!
 
-Now, in reality the email may be sent to a fair number of people in your organisation so there could be many people adding the calendar entries independently of each other.
+Now, in reality the email may be sent to a fair number of people in your organisation so there could be many people adding the calendar entries independently of each other. Duplication of efforts.
 
 One best practice would be for the sender to issue the invitation directly from his calendar. Not only does it saves  recipients time in adding that calendar entry themeselves, the sender can monitor the RSVP and update event details (e.g. location TBA), and the recipients can even counter propose another meeting slot. However, this seems to come at the price of annoyance:  In Outlook, the sender gets an email notification about each response (YES, NO, MAYBE). The recipient, knowing it, may not  "respond" to the email, knowing that it only generates another email for the sender.
 
